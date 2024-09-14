@@ -256,7 +256,7 @@
 <main>
   
 
-  <div class="container-fluid mt-5">
+  <div class="container-fluid mt-5 mb-5">
       <div class="row flex-wrap justify-content-center overflow-hidden">
         <div class="col-lg-4 col-md-10 rounded-start bg-body-tertiary">
             <h1 class="h1 text-center fw-bold p-4">Get a Demo</h1>

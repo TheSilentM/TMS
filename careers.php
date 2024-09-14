@@ -290,6 +290,7 @@
  </div>
 </main>
 
+<hr class="col-10 m-auto mb-5 border-3">
 
     <!-- FOOTER -->
     <div class="container">
